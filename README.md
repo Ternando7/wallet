@@ -10,7 +10,7 @@ Governance for Digital Autonomous Organizations.
 <img src="docs/sovereign-screenshot-2020.png" width="800" title="Democracy Earth Dapp Screenshot 2020">
 </p>
 
-[![Join the chat at https://discord.com/invite/HGsyGXw](https://img.shields.io/discord/490948346773635102?color=%237289DA&label=DemocracyEarth&logo=discord&logoColor=white)](https://discord.com/invite/HGsyGXw)
+[![Join the chat at https://discord.com/invite/HGsyGXw](https://img.shields.io/discord/490948346773635102?color=%237289DA&label=Ternando7&logo=discord&logoColor=white)](https://discord.com/invite/HGsyGXw)
 
 ## Features
 
@@ -23,15 +23,15 @@ Governance for Digital Autonomous Organizations.
   
 **Release:**
 
-* Currently [`version 0.9`](https://github.com/DemocracyEarth/dapp/releases)
-* This [User Agreement](https://github.com/DemocracyEarth/dapp/blob/master/AGREEMENT.md) governs access to and use of the Democracy Earth platform.
+* Currently [`version 0.9`](https://github.com/Ternando7/dapp/releases)
+* This [User Agreement](https://github.com/Ternando7/dapp/blob/master/AGREEMENT.md) governs access to and use of the Democracy Earth platform.
 
 ## Setup
 
 1. Clone Repository
 
     ```sh
-    $ git clone https://github.com/DemocracyEarth/dapp.git
+    $ git clone https://github.com/Ternando7/dapp.git
     $ cd dapp
     ```
 
@@ -66,11 +66,11 @@ Governance for Digital Autonomous Organizations.
 
 ### Use Cases
 
-* 📃 Read our [White Paper](https://github.com/DemocracyEarth/paper).
+* 📃 Read our [White Paper](https://github.com/Ternando7/paper).
 * 🇺🇸 Quadratic Voting for the [2019-2020 Legislative Season of the State of Colorado](https://www.bloomberg.com/news/articles/2019-05-01/a-new-way-of-voting-that-makes-zealotry-expensive).
 * 🇭🇰 Umbrella Movement Shadow Referendum [2017 Hong Kong](https://www.slideshare.net/mysociety/the-impacts-of-popvote-in-hong-kong-virgile-deville-democracy-earth).
 * 🇺🇳 Blockchain Voting for Peace [OECD Report 2017](https://www.oecd.org/gov/innovative-government/embracing-innovation-in-government-colombia.pdf).
-* 🇨🇴 Report on [2016 Colombia Referendum](https://medium.com/@DemocracyEarth/a-digital-referendum-for-colombias-diaspora-aeef071ec014#.xbyqt3blq).
+* 🇨🇴 Report on [2016 Colombia Referendum](https://medium.com/@Ternando7/a-digital-referendum-for-colombias-diaspora-aeef071ec014#.xbyqt3blq).
 
 ## Contribute
 
@@ -78,20 +78,20 @@ This dapp is a free, open source and censorship resistant.
 
 ### Backers
 
-Join our [Open Collective](https://opencollective.com/democracyearth):
+Join our [Open Collective](https://opencollective.com/Ternando7):
 
-<a href="https://opencollective.com/democracyearth/backer/0/website"><img src="https://opencollective.com/democracyearth/backer/0/avatar.svg"></a>
-<a href="https://opencollective.com/democracyearth/backer/1/website"><img src="https://opencollective.com/democracyearth/backer/1/avatar.svg"></a>
-<a href="https://opencollective.com/democracyearth/backer/2/website"><img src="https://opencollective.com/democracyearth/backer/2/avatar.svg"></a>
-<a href="https://opencollective.com/democracyearth/backer/3/website"><img src="https://opencollective.com/democracyearth/backer/3/avatar.svg"></a>
-<a href="https://opencollective.com/democracyearth/backer/4/website"><img src="https://opencollective.com/democracyearth/backer/4/avatar.svg"></a>
-<a href="https://opencollective.com/democracyearth/backer/5/website"><img src="https://opencollective.com/democracyearth/backer/5/avatar.svg"></a>
-<a href="https://opencollective.com/democracyearth/backer/6/website"><img src="https://opencollective.com/democracyearth/backer/6/avatar.svg"></a>
-<a href="https://opencollective.com/democracyearth/backer/7/website"><img src="https://opencollective.com/democracyearth/backer/7/avatar.svg"></a>
-<a href="https://opencollective.com/democracyearth/backer/8/website"><img src="https://opencollective.com/democracyearth/backer/8/avatar.svg"></a>
-<a href="https://opencollective.com/democracyearth/backer/9/website"><img src="https://opencollective.com/democracyearth/backer/9/avatar.svg"></a>
-<a href="https://opencollective.com/democracyearth/backer/10/website"><img src="https://opencollective.com/democracyearth/backer/10/avatar.svg"></a>
-<a href="https://opencollective.com/democracyearth/backer/11/website"><img src="https://opencollective.com/democracyearth/backer/11/avatar.svg"></a>
+<a href="https://opencollective.com/Ternando7/backer/0/website"><img src="https://opencollective.com/Ternando7/backer/0/avatar.svg"></a>
+<a href="https://opencollective.com/Ternando7/backer/1/website"><img src="https://opencollective.com/Ternando7/backer/1/avatar.svg"></a>
+<a href="https://opencollective.com/Ternando7/backer/2/website"><img src="https://opencollective.com/Ternando7/backer/2/avatar.svg"></a>
+<a href="https://opencollective.com/Ternando7/backer/3/website"><img src="https://opencollective.com/Ternando7/backer/3/avatar.svg"></a>
+<a href="https://opencollective.com/Ternando7/backer/4/website"><img src="https://opencollective.com/Ternando7/backer/4/avatar.svg"></a>
+<a href="https://opencollective.com/Ternando7/backer/5/website"><img src="https://opencollective.com/Ternando7/backer/5/avatar.svg"></a>
+<a href="https://opencollective.com/Ternando7/backer/6/website"><img src="https://opencollective.com/Ternando7/backer/6/avatar.svg"></a>
+<a href="https://opencollective.com/Ternando7/backer/7/website"><img src="https://opencollective.com/Ternando7/backer/7/avatar.svg"></a>
+<a href="https://opencollective.com/Ternando7/backer/8/website"><img src="https://opencollective.com/Ternando7/backer/8/avatar.svg"></a>
+<a href="https://opencollective.com/Ternando7/backer/9/website"><img src="https://opencollective.com/Ternando7/backer/9/avatar.svg"></a>
+<a href="https://opencollective.com/Ternando7/backer/10/website"><img src="https://opencollective.com/Ternando7/backer/10/avatar.svg"></a>
+<a href="https://opencollective.com/Ternando7/backer/11/website"><img src="https://opencollective.com/Ternando7/backer/11/avatar.svg"></a>
 
 ### About
 
